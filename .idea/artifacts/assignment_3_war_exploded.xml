@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="assignment_3:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/assignment_3_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="assignment_3/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="assignment_3" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Hibernate 5.4.3-5.4.3" />
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring Data JPA-1.3.3" />
+          <element id="library" level="project" name="Spring Security-3.2.5" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/jasperreports-3.5.3.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/json-20180813.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/mysql-connector-java-8.0.16.jar" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator:5.1.1.Final" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

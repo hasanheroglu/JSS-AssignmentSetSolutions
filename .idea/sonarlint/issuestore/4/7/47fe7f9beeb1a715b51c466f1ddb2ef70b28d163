@@ -1,0 +1,16 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó®‹Ë8âÑÇ¥À-
+gsquid:S2583"DChange this condition so that it does not always evaluate to "false"(‹•ÊËüÿÿÿÿ8Ôç¾¥À-
+nsquid:S2095
+"KUse try-with-resources or close this "SocketChannel" in a "finally" clause.(Æ÷Åýüÿÿÿÿ8«Ëç¤À-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å£ö®þÿÿÿÿ8ìòÈ¥À-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó®‹Ë8Ôç¾¥À-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å£ö®þÿÿÿÿ8ìòÈ¥À-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú¹™Š8«Ëç¤À-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(áÒÁÅûÿÿÿÿ8«Ëç¤À-

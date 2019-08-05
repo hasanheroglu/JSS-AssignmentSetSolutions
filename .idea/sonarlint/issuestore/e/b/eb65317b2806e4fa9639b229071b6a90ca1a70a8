@@ -1,0 +1,7 @@
+
+Dsquid:S1481"&Remove this unused "x" local variable.(ï•ŸÖ8õ™æÍ¿-
+Ssquid:S1854"5Remove this useless assignment to local variable "x".(ï•ŸÖ8õ™æÍ¿-
+asquid:S3518"CMake sure this expression can't be zero before doing this division.(ï•ŸÖ8õ™æÍ¿-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¶°Ò8ŸüÈË¿-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½­¤÷ýÿÿÿÿ
+]squid:S1118":Add a private constructor to hide the implicit public one.(ÝÀ Ûúÿÿÿÿ8ŸüÈË¿-

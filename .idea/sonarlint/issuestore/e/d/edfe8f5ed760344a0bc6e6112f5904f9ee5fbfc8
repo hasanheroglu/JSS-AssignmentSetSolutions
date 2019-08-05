@@ -1,0 +1,19 @@
+
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(íïÅÜ8—‘¡¥À-
+usquid:S001179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©²Àùÿÿÿÿ8—‘¡¥À-
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(òÑïéøÿÿÿÿ8·íµ¥À-
+osquid:S2095"QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(‹Â‘´8¼Õ¬ŸÀ-
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(±ÁË‚8—‘¡¥À-
+Hsquid:S001080")Either remove or fill this block of code.(ßÈ´8œù¥¥À-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ş°¼íıÿÿÿÿ8È’¸ŸÀ-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(œû¿Ø8‘¥À-
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Š“ú®üÿÿÿÿ8—‘¡¥À-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÌñÀûÿÿÿÿÿ8Ï¡¥À-
+Zsquid:S1854"7Remove this useless assignment to local variable "key".(Ï¨„øÿÿÿÿ8¹Ã´ŸÀ-
+Ksquid:S1481"(Remove this unused "key" local variable.(Ï¨„øÿÿÿÿ8¹Ã´ŸÀ-

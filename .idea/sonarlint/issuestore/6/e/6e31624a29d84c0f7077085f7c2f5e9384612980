@@ -1,0 +1,14 @@
+
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Öí¨¡8ØšÔÇÀ-
+hsquid:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(£´­8ú§¦ÆÀ-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¡Ï³÷ûÿÿÿÿ8ØšÔÇÀ-
+Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Âû™œÀ-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(·Å—ù8ôš’ÆÀ-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Æÿß½üÿÿÿÿ8ØšÔÇÀ-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÙìäÏûÿÿÿÿ8ÊÊĞÇÀ-
+^squid:S4684""@Replace this persistent entity with a simple POJO or DTO object.(öÑ¦Î8øª“ÅÀ-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8¿·€À-

@@ -1,0 +1,108 @@
+2019-07-16 10:28:28 DEBUG Class3:20 - OMG Exception!
+2019-07-16 10:28:51 DEBUG Class3:19 - OMG Exception!
+2019-07-16 10:37:00 DEBUG Class3:18 - OMG Exception!
+2019-07-16 10:37:20 DEBUG Class3:18 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:5)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:16)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+2019-07-16 10:40:21 DEBUG Class3:18 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:16)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+2019-07-16 10:40:46 DEBUG Class3:18 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:16)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+2019-07-16 10:42:59 DEBUG Class3:18 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:16)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+Caused by: java.lang.ArithmeticException: / by zero
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:6)
+	... 3 more
+2019-07-16 10:43:19 DEBUG Class3:18 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:16)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+Caused by: java.lang.ArithmeticException: / by zero
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:6)
+	... 3 more
+2019-07-16 11:13:49 DEBUG Class3:14 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:12)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+Caused by: java.lang.ArithmeticException: / by zero
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:6)
+	... 3 more
+2019-07-16 12:48:32 DEBUG Class3:14 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:12)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+Caused by: java.lang.ArithmeticException: / by zero
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:6)
+	... 3 more
+2019-07-16 12:50:43 DEBUG Class3:14 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:12)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+2019-07-16 12:53:27 DEBUG Class3:14 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:12)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+Caused by: java.lang.ArithmeticException: / by zero
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:6)
+	... 3 more
+2019-07-16 12:53:42 DEBUG Class3:14 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:12)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+Caused by: java.lang.ArithmeticException: / by zero
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:6)
+	... 3 more
+2019-07-16 12:54:10 DEBUG Class3:14 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:12)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+Caused by: java.lang.ArithmeticException: / by zero
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:6)
+	... 3 more
+2019-07-16 12:54:35 DEBUG Class3:15 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:12)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+Caused by: java.lang.ArithmeticException: / by zero
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:6)
+	... 3 more
+2019-07-16 13:00:45 DEBUG Class3:15 - OMG Exception!
+com.OBSS.Week3.Exception.CustomException: [Ljava.lang.StackTraceElement;@6d86b085
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:8)
+	at com.OBSS.Week3.Exception.Class2.Call(Class2.java:6)
+	at com.OBSS.Week3.Exception.Class3.Call(Class3.java:12)
+	at com.OBSS.Week3.Exception.SLF4JExample.main(SLF4JExample.java:5)
+Caused by: java.lang.ArithmeticException: / by zero
+	at com.OBSS.Week3.Exception.Class1.Call(Class1.java:6)
+	... 3 more

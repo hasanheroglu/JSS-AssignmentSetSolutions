@@ -1,0 +1,4 @@
+
+6squid:S1700"Rename field "authority"(ลฆษ8บ—ำภ-
+dsquid:UselessImportCheck"4Remove this unused import 'javax.persistence.Index'.(ยüÿÿÿÿ8้อภ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(๔ะกüÿÿÿÿ

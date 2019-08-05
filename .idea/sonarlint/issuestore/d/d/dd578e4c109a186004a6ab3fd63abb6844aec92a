@@ -1,0 +1,4 @@
+
+Zsquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´8áÈÇÇÀ-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒôÐ¡üÿÿÿÿ8Ø—ýû¿-
+Vsquid:UselessImportCheck	"+Remove this unused import 'java.util.Date'.(¸…¼ü8ð·ßÇÀ-

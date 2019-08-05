@@ -1,0 +1,5 @@
+
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¤Ùª·8ô¾‡À-
+lsquid:S1192"IDefine a constant instead of duplicating this literal "username" 3 times.(Â¿œ˜ıÿÿÿÿ8®ë‹À-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8ô¾‡À-
